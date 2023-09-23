@@ -20,3 +20,6 @@ Here's a walkthrough of implemented features:
 ![Project 1 Walkthrough](https://github.com/HannaMT/Project-1/assets/142746456/bcf0e373-bc04-4a68-b706-0a41df62557d)
 
 GIF created with LICEcap
+
+Notes:
+- I had some difficulty with making the site responsive for different formats.
