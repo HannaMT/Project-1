@@ -21,5 +21,3 @@ Here's a walkthrough of implemented features:
 
 GIF created with LICEcap
 
-Notes:
-- I had some difficulty with making the site responsive for different formats.
